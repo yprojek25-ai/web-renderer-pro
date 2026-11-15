@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "latest_version": "5.0.7",
+  "latest_version": "5.0.6",
   "release_date": "16 Nov 2026",
   "changelog": "• Integrasi penuh server update GitHub yprojek25-ai/web-renderer-pro\n• Perbaikan tombol Paste API Key Native Windows\n• Optimasi kestabilan NDI, Spout, & VCam 1920x1080 60 FPS",
   "maintenance_message": "Saat ini Developer (Ody & HDR) sedang meng-upload pembaruan sistem. Mohon tunggu sekitar 5-10 menit lalu klik Cek Update kembali.",
