@@ -1,5 +1,9 @@
 {
-  "status": "updating",
+  "status": "ready",
   "latest_version": "5.0.6",
-  "maintenance_message": "Saat ini Developer (Ody & HDR) sedang meng-upload pembaruan versi V.5.0.6. Mohon tunggu sekitar 10 menit lalu cek kembali."
+  "release_date": "16 Nov 2026",
+  "changelog": "• Integrasi penuh server update GitHub yprojek25-ai/web-renderer-pro\n• Perbaikan tombol Paste API Key Native Windows\n• Optimasi kestabilan NDI, Spout, & VCam 1920x1080 60 FPS",
+  "maintenance_message": "Saat ini Developer (Ody & HDR) sedang meng-upload pembaruan sistem. Mohon tunggu sekitar 5-10 menit lalu klik Cek Update kembali.",
+  "script_url": "https://raw.githubusercontent.com/yprojek25-ai/web-renderer-pro/main/app_webview2.py",
+  "installer_url": "https://github.com/yprojek25-ai/web-renderer-pro/releases/latest"
 }
