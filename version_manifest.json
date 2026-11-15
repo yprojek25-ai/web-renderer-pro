@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "latest_version": "5.0.8",
+  "latest_version": "5.0.7",
   "release_date": "16 Nov 2026",
   "changelog": "• Penataan ulang tata letak tombol Output (VCam, NDI, Spout) tepat di bawah tombol Hubungkan\n• Penempatan panel Riwayat Log & AI Customizer di bagian atas\n• Optimasi performa Ultra-Low CPU (1.4%) & kestabilan stream 1080p 60 FPS",
   "maintenance_message": "Saat ini tim Developer (Ody & HDR) sedang meng-upload pembaruan sistem terbaru. Mohon tunggu sekitar 5-10 menit lalu klik Cek Update kembali.",
