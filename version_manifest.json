@@ -1,6 +1,6 @@
 {
   "status": "ready",
-  "latest_version": "5.1.1",
+  "latest_version": "5.1.2",
   "release_date": "16 Nov 2026",
   "changelog": "• Perbaikan sinkronisasi Indikator Hardware: Pembacaan CPU dan RAM kini 100% akurat dan identik dengan Windows Task Manager\n• Algoritma pemindaian RAM ditingkatkan (Deep Recursive Process Tree) untuk menangkap seluruh pemakaian Chrome Renderer di latar belakang",
   "maintenance_message": "Saat ini tim Developer (Ody & HDR) sedang meng-upload pembaruan sistem terbaru.",
