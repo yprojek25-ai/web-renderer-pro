@@ -1,9 +1,16 @@
-{
+import json
+
+manifest = {
   "status": "ready",
   "latest_version": "5.1.8",
   "release_date": "16 Nov 2026",
-  "changelog": "• Perbaikan Kritis Backend AI: Mengembalikan method `bump_ai_version` yang hilang untuk mengaktifkan kembali auto-patching AI\n• Optimasi Engine Performa 60 FPS: Mengatasi Windows DWM Throttling pada PrintWindow agar CaptureFPS tidak tertahan di 29 FPS\n• Peningkatan stabilitas memori dan sinkronisasi thread ganda",
+  "changelog": "• Perbaikan Kritis Backend AI: Mengembalikan method bump_ai_version yang hilang untuk mengaktifkan kembali auto-patching AI\n• Optimasi Engine Performa 60 FPS: Mengatasi Windows DWM Throttling pada PrintWindow agar CaptureFPS tidak tertahan di 29 FPS\n• Peningkatan stabilitas memori dan sinkronisasi thread ganda",
   "maintenance_message": "Saat ini tim Developer (Ody & HDR) sedang meng-upload pembaruan sistem terbaru.",
   "script_url": "https://raw.githubusercontent.com/yprojek25-ai/web-renderer-pro/main/app_webview_2.py",
   "installer_url": "https://github.com/yprojek25-ai/web-renderer-pro/releases/latest"
 }
+
+with open("version_manifest.json", "w", encoding="utf-8") as f:
+    json.dump(manifest, f, indent=2, ensure_ascii=False)
+
+print("version_manifest.json created successfully.")
