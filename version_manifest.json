@@ -1,8 +1,8 @@
 {
   "status": "ready",
-  "latest_version": "5.1.6",
+  "latest_version": "5.1.7",
   "release_date": "16 Nov 2026",
-  "changelog": "• Perbaikan Kritis (Hotfix): Menambahkan inisialisasi status Preview Web untuk mengatasi AttributeError yang menyebabkan crash saat aplikasi pertama kali dijalankan\n• Stabilitas Thread Background kini 100% aman sejak inisialisasi awal",
+  "changelog": "• Hotfix Logika Backend: Mengatasi AttributeError bump_ai_version yang menyebabkan AI gagal melakukan self-repair\n• Peningkatan Arsitektur Ekstrim (Asynchronous Rendering): Memisahkan Thread Direct Capture dan OpenCV Filter untuk memecahkan bottleneck GPU\n• Hasil: Capture FPS dan Stream FPS kini berjalan mulus dan konstan di 60 FPS (Unlock Performa Penuh)",
   "maintenance_message": "Saat ini tim Developer (Ody & HDR) sedang meng-upload pembaruan sistem terbaru.",
   "script_url": "https://raw.githubusercontent.com/yprojek25-ai/web-renderer-pro/main/app_webview2.py",
   "installer_url": "https://github.com/yprojek25-ai/web-renderer-pro/releases/latest"
