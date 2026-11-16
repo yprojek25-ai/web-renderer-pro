@@ -1,8 +1,8 @@
 {
   "status": "ready",
-  "latest_version": "5.0.9",
+  "latest_version": "5.1.0",
   "release_date": "16 Nov 2026",
-  "changelog": "• Indikator border Merah (Belum Terhubung) & Hijau (Sudah Terhubung) pada kolom input URL/IP\n• Fitur Minimize Panel Atas AI untuk memperlebar ruang Chat interaktif seperti Web Gemini\n• Dukungan penuh Full-Access AI pada mode .EXE & pendeteksi driver/fitur Windows yang belum aktif\n• Sistem eskalasi otomatis ke pencipta software (ODY) jika ditemukan bug kritis",
+  "changelog": "• Perbaikan mutlak NDI Offline saat diterima di PC lain melalui jaringan LAN/WiFi\n• Penambahan fitur Standby Frame Pump 1080p agar sinyal NDI langsung ONLINE begitu dinyalakan\n• Pembukaan otomatis port NDI (TCP/UDP 5353 & 5959-5970) pada Windows Firewall\n• Indikator border Merah/Hijau otomatis pada kolom URL & fitur Perlebar Chat AI",
   "maintenance_message": "Saat ini tim Developer (Ody & HDR) sedang meng-upload pembaruan sistem terbaru. Mohon tunggu sekitar 5-10 menit lalu klik Cek Update kembali.",
   "script_url": "https://raw.githubusercontent.com/yprojek25-ai/web-renderer-pro/main/app_webview2.py",
   "installer_url": "https://github.com/yprojek25-ai/web-renderer-pro/releases/latest"
