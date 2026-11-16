@@ -1,8 +1,8 @@
 {
   "status": "ready",
-  "latest_version": "5.1.2",
+  "latest_version": "5.1.3",
   "release_date": "16 Nov 2026",
-  "changelog": "• Perbaikan sinkronisasi Indikator Hardware: Pembacaan CPU dan RAM kini 100% akurat dan identik dengan Windows Task Manager\n• Algoritma pemindaian RAM ditingkatkan (Deep Recursive Process Tree) untuk menangkap seluruh pemakaian Chrome Renderer di latar belakang",
+  "changelog": "• Perbaikan Crash Kritis: Mengatasi masalah AttributeError pada sistem Preview Web\n• Perbaikan Stabilitas WebView2: Mencegah ObjectDisposedException saat aplikasi ditutup\n• Resolusi SyntaxWarning pada Python 3.12+",
   "maintenance_message": "Saat ini tim Developer (Ody & HDR) sedang meng-upload pembaruan sistem terbaru.",
   "script_url": "https://raw.githubusercontent.com/yprojek25-ai/web-renderer-pro/main/app_webview2.py",
   "installer_url": "https://github.com/yprojek25-ai/web-renderer-pro/releases/latest"
