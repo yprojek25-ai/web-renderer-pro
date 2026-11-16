@@ -1,8 +1,8 @@
 {
   "status": "ready",
-  "latest_version": "5.1.4",
+  "latest_version": "5.1.6",
   "release_date": "16 Nov 2026",
-  "changelog": "• Perbaikan Akurasi Monitor Hardware: Sinkronisasi mutlak pembacaan CPU dan RAM agar 100% identik dengan Windows Task Manager\n• Peningkatan kestabilan fungsi internal `psutil` dalam membaca Process Tree Google Chrome secara real-time",
+  "changelog": "• Perbaikan Kritis (Hotfix): Menambahkan inisialisasi status Preview Web untuk mengatasi AttributeError yang menyebabkan crash saat aplikasi pertama kali dijalankan\n• Stabilitas Thread Background kini 100% aman sejak inisialisasi awal",
   "maintenance_message": "Saat ini tim Developer (Ody & HDR) sedang meng-upload pembaruan sistem terbaru.",
   "script_url": "https://raw.githubusercontent.com/yprojek25-ai/web-renderer-pro/main/app_webview2.py",
   "installer_url": "https://github.com/yprojek25-ai/web-renderer-pro/releases/latest"
