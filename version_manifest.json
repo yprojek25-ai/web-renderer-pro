@@ -1,8 +1,8 @@
 {
   "status": "ready",
-  "latest_version": "5.0.8",
+  "latest_version": "5.0.9",
   "release_date": "16 Nov 2026",
-  "changelog": "• Penempatan panel indikator RAM, CPU, & GPU tepat di atas tombol Riwayat Log & AI Custom\n• Penampilan permanen lencana versi AI mulai dari AI V.0.0.1 di samping tombol Cek Update\n• Pemisahan penuh jalur versi utama Developer (V.5.0.8) dan versi kustomisasi AI lokal",
+  "changelog": "• Indikator border Merah (Belum Terhubung) & Hijau (Sudah Terhubung) pada kolom input URL/IP\n• Fitur Minimize Panel Atas AI untuk memperlebar ruang Chat interaktif seperti Web Gemini\n• Dukungan penuh Full-Access AI pada mode .EXE & pendeteksi driver/fitur Windows yang belum aktif\n• Sistem eskalasi otomatis ke pencipta software (ODY) jika ditemukan bug kritis",
   "maintenance_message": "Saat ini tim Developer (Ody & HDR) sedang meng-upload pembaruan sistem terbaru. Mohon tunggu sekitar 5-10 menit lalu klik Cek Update kembali.",
   "script_url": "https://raw.githubusercontent.com/yprojek25-ai/web-renderer-pro/main/app_webview2.py",
   "installer_url": "https://github.com/yprojek25-ai/web-renderer-pro/releases/latest"
