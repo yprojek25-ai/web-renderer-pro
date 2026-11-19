@@ -1,9 +1,11 @@
 {
-  "status": "ready",
-  "latest_version": "5.1.8",
-  "release_date": "16 Nov 2026",
-  "changelog": "• Perbaikan Kritis Backend AI: Mengembalikan method bump_ai_version yang hilang untuk mengaktifkan kembali auto-patching AI\n• Optimasi Engine Performa 60 FPS: Mengatasi Windows DWM Throttling pada PrintWindow agar CaptureFPS tidak tertahan di 29 FPS\n• Peningkatan stabilitas memori dan sinkronisasi thread ganda",
-  "maintenance_message": "Saat ini tim Developer (Ody & HDR) sedang meng-upload pembaruan sistem terbaru.",
-  "script_url": "https://raw.githubusercontent.com/yprojek25-ai/web-renderer-pro/main/app_webview_2.py",
+  "app_name": "Web Renderer PRO",
+  "latest_version": "6.1.1",
+  "version": "6.1.1",
+  "release_date": "19 November 2026",
+  "is_updating": false,
+  "maintenance_message": "",
+  "changelog": "• [NEW V.6.1.1] Perbaikan total engine koneksi Web Ghost Mode (deteksi Child PID Chrome & auto-reconnect watchdog).\n• [FIX] Perbaikan sinkronisasi versi aplikasi agar tidak lagi nyangkut di versi lama (V.5.1.6/V.5.1.8).\n• [FIX] Injeksi otomatis JS Keep-Alive Engine via CDP agar animasi web & WebSocket berjalan 60 FPS non-stop 24/7.\n• [FIX] Pemulihan penuh fitur Preview Web, Kontrol Mouse/Keyboard interaktif, SpoutGL, NDI, dan Virtual Camera.\n• [UI] Penambahan rincian Changelog pembaruan di menu Cek Update meskipun aplikasi sudah versi terbaru.",
+  "script_url": "https://raw.githubusercontent.com/yprojek25-ai/web-renderer-pro/main/app_webview.py",
   "installer_url": "https://github.com/yprojek25-ai/web-renderer-pro/releases/latest"
 }
