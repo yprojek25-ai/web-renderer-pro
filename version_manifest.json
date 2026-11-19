@@ -2,10 +2,10 @@
   "app_name": "Web Renderer PRO",
   "latest_version": "6.1.6",
   "version": "6.1.6",
-  "release_date": "20 November 2026",
+  "release_date": "20 ноября 2026 года",
   "is_updating": false,
   "maintenance_message": "",
-  "changelog": "• [FIX V.6.1.6] Perbaikan error 'No module named selenium.webdriver.chrome.webdriver' pada versi installer (.exe).\n• [V.6.1.5] Pilihan langsung Target FPS (25 FPS, 30 FPS, 60 FPS) dengan sinkronisasi frame rate NDI, Virtual Camera, dan Spout.\n• [V.6.1.5] Grafik garis naik-turun (Sparkline) real-time untuk RAM, CPU, dan VGA.",
+  "changelog": "• [ИСПРАВЛЕНИЕ V.6.1.6] Исправлена ошибка 'No module named selenium.webdriver.chrome.webdriver' в версии установщика (.exe).\n• [V.6.1.5] Добавлена возможность прямого выбора целевой частоты кадров (25 FPS, 30 FPS, 60 FPS) с синхронизацией частоты кадров NDI, Virtual Camera и Spout.\n• [V.6.1.5] Добавлены интерактивные графики (Sparkline) в реальном времени для отображения использования RAM, CPU и GPU.",
   "script_url": "https://raw.githubusercontent.com/yprojek25-ai/web-renderer-pro/main/app_webview.py",
   "installer_url": "https://github.com/yprojek25-ai/web-renderer-pro/releases/download/v6.1.6/Setup_WebRendererPRO_V6.1.6.exe"
 }
