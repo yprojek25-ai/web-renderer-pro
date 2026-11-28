@@ -1,11 +1,11 @@
 {
   "app_name": "Web Renderer PRO",
-  "latest_version": "7.2.0",
-  "version": "7.2.0",
-  "release_date": "27 November 2026",
+  "latest_version": "7.2.5",
+  "version": "7.2.5",
+  "release_date": "28 November 2026",
   "is_updating": false,
   "maintenance_message": "",
-  "changelog": "• [NEW V.7.0.0] Migrasi total ke Native C++20 CEF OSR (StageHelper.exe) — render 1920x1080 BGRA Alpha murni via Shared Memory, Multi-Threaded Loop, Dirty-Rect copy, Cache Slot Mutex (1-16), dan Manifest Windows 10/11.\n• [NEW V.7.1.0] Preview Web Zero-Lag (Local MJPEG Stream), Browser Multi-Tab (+ Tab, pindah tab, tutup tab, popup otomatis jadi tab), tombol Back / Next / Refresh / Undo / Redo (+ shortcut Ctrl+Z/Y/A/C/V), serta toggle AdBlock ON/OFF + auto-skip iklan YouTube.\n• [NEW V.7.1.1] Audio Broadcast Penuh: Embedded NDI Audio (48kHz Stereo Float32) dengan tombol terpisah Audio ON/Mute & Speaker Monitor ON/OFF, Broadcast-Safe Keyboard Focus (Enter/Spasi aman di Preview), optimasi RAM (lazy buffer), dan animasi/video tetap berjalan 60 FPS saat aplikasi di-minimize.\n• [NEW V.7.1.2] 9 OSC Sender khusus Top Spender Juara 1-3 (Table, Nama, Spend) dari http://192.168.168.77:7300 dengan tombol ON/OFF dan panel Minimize/Expand.\n• [FIX V.7.2.0] Perbaikan total web freeze saat klik cepat (coalesce input UDP & multi-click), pembacaan Web FPS asli langsung dari CEF OnPaint, pembacaan RAM fisik akurat (USS), OSC murni bertipe Text/String (,s), tombol Konek OSC (cek port UDP aktif), tombol tes satuan per slot, mode Edit Data manual (bisa tes OSC saat server IT mati), serta default setting siap pakai.",
+  "changelog": "• [NEW V.7.0.0] Migrasi total ke Native C++20 CEF OSR (StageHelper.exe) — render 1920x1080 BGRA Alpha murni via Shared Memory, Multi-Threaded Loop, Cache Slot Mutex (1-16), dan Manifest Windows 10/11.\n• [NEW V.7.1.0] Preview Web Zero-Lag (Local MJPEG Stream), Browser Multi-Tab (+ Tab, switch, close, popup otomatis jadi tab), navigasi Back/Next/Refresh/Undo/Redo + shortcut keyboard, dan AdBlock ON/OFF + auto-skip iklan YouTube.\n• [NEW V.7.1.1] Embedded NDI Audio (48kHz Stereo Float32) dengan kontrol terpisah Audio ON/Mute & Speaker Monitor ON/OFF, Broadcast-Safe Keyboard Focus, optimasi RAM, dan tetap 60 FPS saat minimize.\n• [NEW V.7.1.2 - V.7.2.0] 9 OSC Sender (Text Only ,s) khusus Top Spender Juara 1-3 (Table, Nama, Spend) dari http://192.168.168.77:7300, tombol Konek OSC (cek port UDP aktif), tes satuan per slot, mode Edit Data manual, Real Web FPS, dan monitor RAM fisik (USS).\n• [SECURITY & STABILITY V.7.2.1 - V.7.2.5] Verifikasi TLS aktif, render UI murni DOM API (anti-XSS), penyimpanan Gemini API Key di Windows Credential Manager + parser perintah anti-negasi, SHM v3 double-buffer seqlock (anti frame campuran), arsitektur UI Pull (bebas error WebView2 saat tutup), validasi output NDI/VCam/Spout & anti-layar hitam saat toggle ulang, isolasi instans + UDP terautentikasi, pembatas visual per Rank (#1/#2/#3) di panel OSC, serta tombol update diarahkan langsung ke Google Chrome.",
   "script_url": "https://raw.githubusercontent.com/yprojek25-ai/web-renderer-pro/main/app_webview.py",
-  "installer_url": "https://github.com/yprojek25-ai/web-renderer-pro/releases/tag/Web_Renderer_PRO"
+  "installer_url": "https://github.com/yprojek25-ai/web-renderer-pro/releases"
 }
